@@ -1,0 +1,1 @@
+kgradius.gif,https://retropie.org.uk/forum/topic/28345/old-computer-appreciation-thread/1260

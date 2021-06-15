@@ -1,0 +1,1 @@
+cpm22.imd_lr-mess.gif,https://retropie.org.uk/forum/topic/30770/my-last-problem-the-trs80/29
