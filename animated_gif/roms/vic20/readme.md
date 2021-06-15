@@ -1,0 +1,1 @@
+vice-vic20-settings-to-play-games.gif,https://retropie.org.uk/forum/topic/10918/where-to-legally-acquire-content-to-play-on-retropie/411
