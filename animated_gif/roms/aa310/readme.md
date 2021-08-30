@@ -1,0 +1,1 @@
+boot-lemmings-with-bios-310.gif,https://retropie.org.uk/forum/topic/28345/old-computer-appreciation-thread/1281
